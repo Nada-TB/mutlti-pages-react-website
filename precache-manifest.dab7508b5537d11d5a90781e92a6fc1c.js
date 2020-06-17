@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "181a436d3a3f5b116ffdbc6f66191874",
+    "revision": "9afaa580f142a8119373de19e385a982",
     "url": "/mutlti-pages-react-website/index.html"
   },
   {
-    "revision": "b65dec56593bd766d1c8",
+    "revision": "59fe5cbf2485acc231dc",
     "url": "/mutlti-pages-react-website/static/css/main.bb226045.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutlti-pages-react-website/static/js/2.4d2dbe38.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b65dec56593bd766d1c8",
-    "url": "/mutlti-pages-react-website/static/js/main.dd8d21fc.chunk.js"
+    "revision": "59fe5cbf2485acc231dc",
+    "url": "/mutlti-pages-react-website/static/js/main.ac9c3af8.chunk.js"
   },
   {
     "revision": "da4b4154aabc8a7e4d28",

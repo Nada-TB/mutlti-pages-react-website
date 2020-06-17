@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mutlti-pages-react-website/precache-manifest.fddf8ad630cfebce7d69932c90de3c9b.js"
+  "/mutlti-pages-react-website/precache-manifest.dab7508b5537d11d5a90781e92a6fc1c.js"
 );
 
 self.addEventListener('message', (event) => {
