@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mutlti-pages-react-website/static/css/main.bb226045.chunk.css",
+    "main.js": "/mutlti-pages-react-website/static/js/main.dd8d21fc.chunk.js",
+    "main.js.map": "/mutlti-pages-react-website/static/js/main.dd8d21fc.chunk.js.map",
+    "runtime-main.js": "/mutlti-pages-react-website/static/js/runtime-main.d327331f.js",
+    "runtime-main.js.map": "/mutlti-pages-react-website/static/js/runtime-main.d327331f.js.map",
+    "static/js/2.4d2dbe38.chunk.js": "/mutlti-pages-react-website/static/js/2.4d2dbe38.chunk.js",
+    "static/js/2.4d2dbe38.chunk.js.map": "/mutlti-pages-react-website/static/js/2.4d2dbe38.chunk.js.map",
+    "index.html": "/mutlti-pages-react-website/index.html",
+    "precache-manifest.fddf8ad630cfebce7d69932c90de3c9b.js": "/mutlti-pages-react-website/precache-manifest.fddf8ad630cfebce7d69932c90de3c9b.js",
+    "service-worker.js": "/mutlti-pages-react-website/service-worker.js",
+    "static/css/main.bb226045.chunk.css.map": "/mutlti-pages-react-website/static/css/main.bb226045.chunk.css.map",
+    "static/js/2.4d2dbe38.chunk.js.LICENSE.txt": "/mutlti-pages-react-website/static/js/2.4d2dbe38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d327331f.js",
+    "static/js/2.4d2dbe38.chunk.js",
+    "static/css/main.bb226045.chunk.css",
+    "static/js/main.dd8d21fc.chunk.js"
+  ]
+}
